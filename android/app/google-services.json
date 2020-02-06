@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270488010847",
+    "firebase_url": "https://spotography-4343e.firebaseio.com",
+    "project_id": "spotography-4343e",
+    "storage_bucket": "spotography-4343e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270488010847:android:9bf1d5de610b64cfbfdbea",
+        "android_client_info": {
+          "package_name": "com.example.spotography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270488010847-tkchqdk4s19vv1e6pm47reqvlim05ql8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spotography",
+            "certificate_hash": "acb160e37bbbe398ac4c2ce465bbeee31a202261"
+          }
+        },
+        {
+          "client_id": "270488010847-vg1ic873dd3nrkj6hcpgqbtdl39r7kfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL_GNdjDOd8n8Tw3S5r490iV-2f_NoP50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270488010847-vg1ic873dd3nrkj6hcpgqbtdl39r7kfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
