@@ -35,15 +35,7 @@ int heading;
 TextStyle style = TextStyle(fontFamily: 'Montserrat', fontSize: 20.0);
 
 
-/*_openCamera() async{
-    var picture = await ImagePicker.pickImage(
-      source: ImageSource.camera
-    );
-    _getLocation();
-    this.setState((){
-      //${widget.imageFile} = picture;
-    });
-  }*/ 
+
 
   
 
